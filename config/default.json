@@ -1,0 +1,6 @@
+{
+  "port": 5006,
+  "jwtSecret": "random flag",
+  "mongoUri": "mongodb+srv://bumhunter:651023@cluster0.nbm9i.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5006"
+}
